@@ -4,7 +4,7 @@
 <img src="assets/screenshots/4x4.png" alt="N-Queens Banner" width="100"/>
 
 ![Version](https://img.shields.io/badge/version-1.0.0-darkred) ![Language](https://img.shields.io/badge/language-Python-darkred) ![Status](https://img.shields.io/badge/status-Completed-darkred)
-![Stars](https://img.shields.io/github/stars/Luis3Fernando/N-Queens-Visualizer?style=social)
+![Stars](https://img.shields.io/github/stars/Luis3Fernando/N-Queens-Algorithm-Visual?style=social)
 
 **N-Queens Visualizer** is a visual and interactive implementation of the classic N-Queens problem, built with Python. This algorithmic puzzle consists of placing N queens on an N×N chessboard so that no two queens threaten each other — no same row, column, or diagonal.
 
