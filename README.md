@@ -57,7 +57,7 @@ This project is powered by:
 Clone this repository and run the app locally with just a few commands:
 
 ```bash
-git clone https://github.com/TU_USUARIO/N-Queens-Visualizer.git
+git clone https://github.com/Luis3Fernando/N-Queens-Algorithm-Visual
 cd N-Queens-Visualizer
 python3 -m venv venv
 source venv/bin/activate     # On Windows use: venv\Scripts\activate
