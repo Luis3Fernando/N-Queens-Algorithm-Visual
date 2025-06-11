@@ -57,8 +57,24 @@ Clone this repository and run the app locally with just a few commands:
 
 ```bash
 git clone https://github.com/Luis3Fernando/N-Queens-Algorithm-Visual
+```
+
+```bash
 cd N-Queens-Algorithm-Visual
+```
+
+```bash
 python3 -m venv venv
+```
+
+```bash
 source venv/bin/activate     # On Windows use: venv\Scripts\activate
+```
+
+```bash
 pip install -r requirements.txt
+```
+
+```bash
 python3 app.py
+```
